@@ -8,7 +8,7 @@ all the power of the Graphist programming language at your fingertips.
 This simplicity is due to the American philosopher Charles Saunders Peirce's system of existential graphs, which is an 
 ingenious simplification of formal logic that Graphist is based on.
 
-*The Two Words*
+**The Two Words**
 
 *Graph*
 
@@ -21,10 +21,10 @@ from the paper.  If the graph command has the affect of affirming its argument, 
 
 Out of these basic principles we can define all logic functions that regularly form the building blocks of programming languages.  To see how this is done, see one of the tutorials below.  If you are interested, experiment with the language, and if you have any good ideas, contribute to its development.
 
-*Tutorials* 
+**Tutorials** 
 (If you are a beginner, it is recommended you go in order, though an effort is made to make each tutorial as self-contained as possible)
 
-Graphist for Everyone
+<li>Graphist for Everyone</li>
 GitHub for Graphists
 Graphist for Prolog Programmers
 Graphist for Linguists
