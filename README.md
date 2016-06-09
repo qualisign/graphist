@@ -16,10 +16,10 @@ Graphist deals with graphs and nothing else.  Any input you supply to Graphist m
 
 *Cut*
 
-Cut designates sommething as absent from a graph - think of taking scizzors to paper to remove certain items
+Cut designates something as being absent from a graph - think of taking scissors to paper to remove certain items
 from the paper.  If the graph command has the affect of affirming its argument, a cut within a graph has the efect of negating its contents, since the argument is separated from what is true (on the graph).
 
-Out of these basic principles we can define all logic functions that regularly form the building blocks of programming languages.  To see how this is done, see one of the tutorials below.  If you are interested, experiment with the language, and if you have any good ideas, contribute to its development.
+Out of these basic principles we can define all logic functions that regularly form the building blocks of programming languages.  To see how this is done, read more in the tutorials.  Have fun experimenting with the language, and if you have any good ideas, contribute to its development.
 
 **Tutorials** 
 (If you are a beginner, it is recommended you go in order, though an effort is made to make each tutorial as self-contained as possible)
