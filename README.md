@@ -26,7 +26,7 @@ Out of these basic principles we can define all logic functions that regularly f
 
 <li>Graphist for Everyone</li>
 <li>Collaborate on Graphist with Git</li>
-<li>Graphist for Philosophy/li>
+<li>Graphist for Philosophy</li>
 <li>Graphist for Linguistics</li>
 <li>Graphist for Games</li>
 
