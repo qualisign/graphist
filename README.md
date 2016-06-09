@@ -25,12 +25,9 @@ Out of these basic principles we can define all logic functions that regularly f
 (If you are a beginner, it is recommended you go in order, though an effort is made to make each tutorial as self-contained as possible)
 
 <li>Graphist for Everyone</li>
-GitHub for Graphists
-Graphist for Prolog Programmers
-Graphist for Linguists
-Graphist for Object-Oriented Programmers
-Graphist for Circuit Designers
-Graphist for Functional Programmers
-Graphist for Philosophers
+<li>Collaborate on Graphist with Git</li>
+<li>Graphist for Philosophy/li>
+<li>Graphist for Linguistics</li>
+<li>Graphist for Games</li>
 
 Graphist is free software.
