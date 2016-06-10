@@ -1,12 +1,11 @@
 # Graphist
 
-Graphist is a logic programming language simple enough to use as a pedagogical tool for teaching programming.
+Graphist is a simple programming language written from the point of view of logic.  It stresses intuition and self-evidence -- a programmer must know why and not just how to do things -- which makes it suitable as a beginner's language or a pedagogical tool for teaching programming.
 
-The core vocabulary of the language is exceedingly small: just two words.  Learn to use these two words properly, and you have 
-all the power of the Graphist programming language at your fingertips.
+The core vocabulary of the language is exceedingly small: just two words.  Learning to use these two words properly is learning to program in Graphist.
 
 This simplicity is due to the American philosopher Charles Saunders Peirce's system of existential graphs, which is an 
-ingenious simplification of formal logic that Graphist is based on.
+ingenious simplification of formal logic Graphist is based on.
 
 **The Two Words**
 
