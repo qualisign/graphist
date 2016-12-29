@@ -1,5 +1,3 @@
-# Graphist
-
 ```
                                        ,,          ,,
   .g8"""bgd                          `7MM          db            mm
