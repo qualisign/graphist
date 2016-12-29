@@ -11,7 +11,7 @@ MM.    `7MMF' MM     ,pm9MM   MM    M8 MM    MM    MM  `YMMMa.   MM
                             .JMML.
 ```
 
-Graphist is a simple programming language written from the point of view of logic.  It stresses intuition and self-evidence -- a programmer must know why these are done a certain way and not just how they are done -- which makes it suitable as a language for beginners or a pedagogical tool for teaching programming.
+Graphist is a simple programming language written from the point of view of logic.  It stresses intuition and self-evidence -- a programmer must understand the logic behind doing things a certain way and not just how they are done -- which makes it suitable as a language for beginners or a pedagogical tool for teaching programming.
 
 The core vocabulary of the language is exceedingly small: just two words.  Learning to use these two words properly is learning to program in Graphist.
 
