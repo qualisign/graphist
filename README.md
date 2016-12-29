@@ -1,6 +1,6 @@
 # Graphist
 
-
+```
                                        ,,          ,,
   .g8"""bgd                          `7MM          db            mm
 .dP'     `M                            MM                        MM
@@ -11,6 +11,7 @@ MM.    `7MMF' MM     ,pm9MM   MM    M8 MM    MM    MM  `YMMMa.   MM
   `"bmmmdPY .JMML.  `Moo9^Yo. MMbmmd'.JMML  JMML..JMML.M9mmmP'   `Mbmo
                               MM
                             .JMML.
+```
 
 Graphist is a simple programming language written from the point of view of logic.  It stresses intuition and self-evidence -- a programmer must know why these are done a certain way and not just how they are done -- which makes it suitable as a language for beginners or a pedagogical tool for teaching programming.
 
