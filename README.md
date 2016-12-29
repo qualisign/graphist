@@ -16,7 +16,7 @@ Graphist deals with graphs and nothing else.  Any input you supply to Graphist m
 *Cut*
 
 Cut designates something as being absent from a graph - think of taking scissors to paper to remove certain items
-from the paper.  If the graph command has the affect of affirming its argument, a cut within a graph has the efect of negating its contents, since the argument is separated from what is true (on the graph).
+from the paper.  If the graph command has the effect of affirming its argument, a cut within a graph has the efect of negating its contents, since the argument is separated from what is declared true by virtue of being found on the graph.
 
 Out of these basic principles we can define all logic functions that regularly form the building blocks of programming languages.  To see how this is done, read more in the tutorials.  Have fun experimenting with the language, and if you have any good ideas, contribute to its development.
 
